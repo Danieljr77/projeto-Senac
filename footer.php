@@ -7,7 +7,7 @@
                         <a href="/">Home</a>
                     </li>
                     <li>
-                        <a href="/produtos">Produto</a>
+                        <a href="/produtos">Musicas</a>
                     </li>
                     <li>
                         <a href="/sobre">Sobre</a>

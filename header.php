@@ -8,7 +8,7 @@
                 <div class="col-md-9 column">
                     <div class="page-header">
                         <h1>
-                            Lja da Musica
+                            Loja da Musica
                             <small>O estilo que voçê curte toca aqui</small>
                         </h1>
                     </div>

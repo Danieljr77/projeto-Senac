@@ -12,7 +12,7 @@
                 <span class="label label-warning">R$ 19,90</span>
             </p>
             <p>
-                
+                <a class="btn btn-success btn-sm" href="#">Comprar</a>
             </p>
         </div>
     </div>
